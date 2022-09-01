@@ -1,31 +1,25 @@
 {
-  "name": "employee_tracker_12",
+  "name": "employee-tracker",
   "version": "1.0.0",
-  "description": "Challenge 12",
-  "main": "server.js",
+  "description": "activity for demonstrating inquirer with mysql",
+  "main": "employeeTracker.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^6.5.2",
+    "inquirer-list-input": "^0.1.2",
+    "mysql": "^2.18.1"
+  },
   "scripts": {
-    "test": "node server.js",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/LibhartLL/Employee_Tracker_12.git"
   },
-  "keywords": [
-    "Challenge",
-    "12",
-    "Employee",
-    "Tracker"
-  ],
-  "author": "LLL",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/LibhartLL/Employee_Tracker_12/issues"
   },
-  "homepage": "https://github.com/LibhartLL/Employee_Tracker_12#readme",
-  "dependencies": {
-    "console.table": "^0.10.0",
-    "inquirer": "^9.1.1",
-    "mysql": "^2.18.1"
-  }
+  "homepage": "https://github.com/LibhartLL/Employee_Tracker_12#readme"
 }
