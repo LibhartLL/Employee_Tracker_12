@@ -33,12 +33,11 @@ Javascript, MySql, npm console.table, npm inquirer, node.js
 * Change MySql password: https://www.cyberciti.biz/faq/mysql-change-user-password/
 * Console.table: https://www.npmjs.com/package/console.table
 
-
 ### Screenshots or Video Files:
 
 * Video of the demonstration of the Note Taker App:
 
-[![Youtube video of Note Taker App](https://i9.ytimg.com/vi_webp/IoQhck_p0PA/mqdefault.webp?v=6309216b&sqp=COTApJgG&rs=AOn4CLClJdsD_mZMSx9q-bY2f7E9dkEtIQ)](https://youtu.be/IoQhck_p0PA)
+[![Youtube video of Note Taker App](https://i9.ytimg.com/vi/ZrE5_FoAzu0/mq1.jpg?sqp=CNjIxJgG&rs=AOn4CLBvFiNalowwkqNliL9Afmp8ibxmPQ)](https://youtu.be/ZrE5_FoAzu0)
 
 
 * Play by play screenshots of the command line prompts for the readme questions and the creation of the readme.md:
