@@ -42,8 +42,8 @@ Javascript, MySql, npm console.table, npm inquirer, node.js
 
 * Play by play screenshots of the command line prompts for the readme questions and the creation of the readme.md:
 
-![Screenshot](/assets/Image%209-1-22%20at%204.03%20PM.jpg),
-![Screenshot](/assets/Image%209-1-22%20at%204.03%20PM%202.jpg).
+![Screenshot](/Assets/Image%209-1-22%20at%204.03%20PM.jpg),
+![Screenshot](/Assets/Image%209-1-22%20at%204.03%20PM%202.jpg).
 
 ### License
 This project is licensed under:
